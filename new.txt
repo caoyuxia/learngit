@@ -6,6 +6,6 @@
 	<script src="jquery-1.7.2.min.js"></script>
 </head>
 <body>
-	<h1>this is dev</h1>
+	<h1>other</h1>
 </body>
 </html>
